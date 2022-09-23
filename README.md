@@ -1,4 +1,4 @@
-# web_scraping_challenge
+# Web Scraping Challenge
 For this challenge, I was tasked with using BeautifulSoup to scrape data about the planet Mars, and then using PyMongo and Flask to load the data into a database and visualize the data with a flask app that can also update the data by scraping the websites again.
 
 # App Screenshots:
