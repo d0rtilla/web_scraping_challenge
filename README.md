@@ -2,9 +2,9 @@
 For this challenge, I was tasked with using BeautifulSoup to scrape data about the planet Mars, and then using PyMongo and Flask to load the data into a database and visualize the data with a flask app that can also update the data by scraping the websites again.
 
 # App Screenshots:
-![screenshots/mars_app_screen_1](Screen1.png)
-![screenshots/mars_app_screen_2](Screen2.png)
-![screenshots/mars_app_screen_3](Screen3.png)
+![screenshots/mars_app_screen_1.png](screenshots/mars_app_screen_1.png)
+![screenshots/mars_app_screen_2.png](screenshots/mars_app_screen_2.png)
+![screenshots/mars_app_screen_3.png](screenshots/mars_app_screen_3.png)
 
 
 # Unit 12 Homework: Mission to Mars
